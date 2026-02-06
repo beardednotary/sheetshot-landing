@@ -33,7 +33,7 @@ export default function HomePage() {
           </div>
 
           {/* HERO IMAGE */}
-          <div className="heroImageWrap">
+          {/*<div className="heroImageWrap">
             <Image
               src="/hero.jpg"
               alt="SheetShot app preview showing screenshot to spreadsheet conversion"
@@ -41,7 +41,7 @@ export default function HomePage() {
               height={768}
               priority
             />
-          </div>
+          </div> */}
         </section>
 
         {/* HOW IT WORKS */}
